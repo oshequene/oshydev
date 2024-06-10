@@ -1,1 +1,1 @@
-worker:python fu.py
+worker: python fu.py
